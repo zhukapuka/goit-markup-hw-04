@@ -251,6 +251,7 @@ h3.third-section-item-header {
   justify-content: center;
   align-items: center;
   gap: 24px;
+  margin-top: 8px;
 }
 .third-section-icons-item {
   width: 40px;
