@@ -245,6 +245,31 @@ ul.third-section-list {
 h3.third-section-item-header {
   margin-bottom: 8px;
 }
+/* ------------add decoration icons social nets----------- */
+.third-section-icons-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+.third-section-icons-item {
+  width: 40px;
+  height: 40px;
+}
+.third-section-icons-item-link {
+  width: 100%;
+  height: 100%;
+  background-color: #4d5ae5;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.third-section-icons-item-link:hover,
+.third-section-icons-item-link:focus {
+  background-color: #404bbf;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
 /* ===================SECTION4============================ */
 .forth-section-header {
   font-weight: 700;
