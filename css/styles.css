@@ -320,8 +320,9 @@ h3.third-section-item-header {
 h3.forth-section-item-header {
   margin-bottom: 8px;
 }
-.overlay {
-  line-height: 1.5;
+.overlay p {
+  line-height: 150%;
+  font-size: 16px;
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
