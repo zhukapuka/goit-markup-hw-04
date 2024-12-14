@@ -406,6 +406,7 @@ h2 {
 }
 .container-footer {
   display: flex;
+  align-items: baseline;
 }
 .logo-footer .logo-part {
   color: #f4f4fd;
@@ -434,7 +435,6 @@ h2 {
 }
 .wrap-logo-footer {
   margin-right: 120px;
-  align-items: baseline;
 }
 .footer-socail-media {
   font-weight: 500;
