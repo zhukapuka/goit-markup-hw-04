@@ -204,6 +204,18 @@ ul.second-section-list {
 .second-section-item-header {
   margin-bottom: 8px;
 }
+/* -------------icons settings-------- */
+.icon-section-two {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  padding: 24px 100px;
+  margin-bottom: 8px;
+}
 /* --------------------SECTION 3---------------------------  */
 .third-section {
   padding: 120px 0;
