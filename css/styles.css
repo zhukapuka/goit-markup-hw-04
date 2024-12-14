@@ -266,6 +266,10 @@ h3.third-section-item-header {
   justify-content: center;
   align-items: center;
 }
+.icon-svg {
+  fill: #f4f4fd;
+}
+/* -------------------------------------------------- */
 .third-section-icons-item-link:hover,
 .third-section-icons-item-link:focus {
   background-color: #404bbf;
