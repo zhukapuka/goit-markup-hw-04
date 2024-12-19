@@ -1,0 +1,15 @@
+{
+  "editor.fontSize": 24,
+  "debug.console.fontSize": 22,
+  "scm.inputFontSize": 16,
+  "terminal.integrated.fontSize": 26,
+  "notebook.markup.fontSize": 25,
+  "notebook.output.fontSize": 25,
+  "chat.editor.fontSize": 25,
+  "markdown.preview.fontSize": 25,
+  "editor.mouseWheelZoom": true,
+  "editor.minimap.sectionHeaderLetterSpacing": 2,
+  "terminal.integrated.mouseWheelZoom": true,
+  "chat.editor.lineHeight": 1,
+  "editor.minimap.sectionHeaderFontSize": 12
+}
